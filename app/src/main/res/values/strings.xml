@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoneyLion Assignment</string>
+    <string name="generate">Generate</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="clear_list">Clear List</string>
+    <string-array name="type_array">
+        <item>Text</item>
+        <item>Number</item>
+        <item>Boolean</item>
+        <item>Checkbox</item>
+        <item>Encrypted Text</item>
+    </string-array>
+</resources>
